@@ -30,7 +30,6 @@ Este repositório foi criado para colocar o meu projeto realizado na Next Level 
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
 </h3>
 
 ---
@@ -38,13 +37,16 @@ Este repositório foi criado para colocar o meu projeto realizado na Next Level 
 ## 🚧 Projeto
 
 <div align="center">
-  
-### 🌐 Front end
 
 ### ⚙️ Back end
-
+<img src="https://i.imgur.com/iyMdrJ4.png" />
+  
+### 🌐 Front end
+<img src="https://i.imgur.com/s7fvlGO.png" />
+  
 ### 📱 Mobile
-
+<img src="https://i.imgur.com/Mfkfel3.jpg" />
+  
 </div>
   
 ---
